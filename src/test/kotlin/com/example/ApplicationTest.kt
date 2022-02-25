@@ -10,4 +10,5 @@ import io.ktor.server.testing.*
 import com.example.plugins.*
 
 class ApplicationTest {
+    var y = 5
 }
